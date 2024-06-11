@@ -1,0 +1,1 @@
+console.log("Este vem do arquivo externo linkado no body");

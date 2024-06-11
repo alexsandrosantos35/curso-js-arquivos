@@ -1,0 +1,1 @@
+console.log("Este código vem do head.");
